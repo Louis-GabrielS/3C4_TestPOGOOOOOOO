@@ -30,3 +30,7 @@
 *.exe
 *.out
 *.app
+
+MASOLUTIONPOGO/MASOLUTIONPOGO/obj/
+
+MASOLUTIONPOGO/.vs/
